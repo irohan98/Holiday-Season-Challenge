@@ -41,7 +41,8 @@ score = {100* f1_score(actual_values,predicted_values,average = 'weighted')}
 Link To Contest --> https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/
 
 ---
-# My Solution (Rank: 72, Top 3%)
-   - SCORE: 92.38196
-   - Used transfer learning in Keras and fine-tuned an InceptionResNetV2 model
-https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/leaderboard/holiday-season-11-2c924626/page/2/
+# My Solution (Rank: 76, Top 3%)
+- SCORE: 92.38196
+(https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-holidays/leaderboard/holiday-season-11-2c924626/page/2/)
+- Used transfer learning in Keras and fine-tuned an InceptionResNetV2 model
+
